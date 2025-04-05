@@ -1,4 +1,4 @@
-# 👩‍💻 Portafolio Web - Mirian Colque
+# 👩‍💻 Portafolio - Mirian Colque
 
 Este es un portafolio web personal desarrollado como parte de una práctica académica. Está orientado a mostrar de manera sencilla mi perfil como estudiante de Ingeniería de Sistemas, mis habilidades básicas y mis datos de contacto.
 
@@ -13,7 +13,7 @@ Puedes ver el portafolio localmente abriendo el archivo `index.html` en tu naveg
 
 ## 📄 Estructura del proyecto
 
-portafolio/
+portafolio-Mirian/
 │── css/
 │   ├── style.css
 │── index.html
@@ -38,6 +38,6 @@ portafolio/
 
 1. Clona el repositorio:
 
-   git clone https://github.com/MirianColque/portafolio.git
+   git clone https://github.com/MirianColque/Practica1.git
 
 2. Abrir `index.html` en un navegador.
